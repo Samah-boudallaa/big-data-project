@@ -40,18 +40,4 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 ```bash
 python wordcount_mapreduce.py input.txt output/
 
----
-
-## Résultats
-
-- Spark offre une meilleure performance et une écriture plus simple
-
-- Hadoop MapReduce est plus verbeux mais robuste pour le batch processing
-
----
-
-## Auteure
-
-Samah Boudallaa
-Étudiante en Data Engineering 
 

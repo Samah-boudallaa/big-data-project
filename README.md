@@ -1,6 +1,6 @@
-# 📊 Projet Académique Big Data – Traitement Distribué de Données Textuelles
+# Projet Académique Big Data – Traitement Distribué de Données Textuelles
 
-## 📖 Description
+## Description
 Ce projet académique a été réalisé dans le cadre du module **Fondamentaux du Big Data**.  
 Il vise à concevoir et implémenter un **pipeline complet de traitement distribué de données textuelles volumineuses**, en utilisant les technologies Big Data.
 
@@ -8,7 +8,7 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 
 ---
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 - Comprendre l’architecture Big Data
 - Manipuler des volumes importants de données textuelles
 - Implémenter un traitement distribué avec :
@@ -18,7 +18,7 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - **Python**
 - **Hadoop (HDFS, MapReduce)**
 - **Apache Spark (PySpark)**
@@ -27,7 +27,7 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 
 ---
 
-## ⚙️ Fonctionnalités principales
+## Fonctionnalités principales
 - Stockage des données dans HDFS
 - Traitement distribué avec MapReduce
 - Traitement équivalent avec Spark
@@ -35,7 +35,7 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 
 ---
 
-## 🚀 Exécution du projet
+## Exécution du projet
 ### Hadoop MapReduce
 ```bash
 python wordcount_mapreduce.py input.txt output/

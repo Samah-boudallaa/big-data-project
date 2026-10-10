@@ -6,8 +6,6 @@ Il vise à concevoir et implémenter un **pipeline complet de traitement distrib
 
 Le projet couvre la collecte, le stockage, le traitement et l’analyse des données, avec une comparaison entre **Hadoop MapReduce** et **Apache Spark**.
 
----
-
 ## Objectifs du projet
 - Comprendre l’architecture Big Data
 - Manipuler des volumes importants de données textuelles
@@ -16,8 +14,6 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
   - Apache Spark (PySpark)
 - Comparer les performances et la simplicité d’utilisation
 
----
-
 ## Technologies utilisées
 - **Python**
 - **Hadoop (HDFS, MapReduce)**
@@ -25,15 +21,11 @@ Le projet couvre la collecte, le stockage, le traitement et l’analyse des donn
 - **Linux**
 - **Git & GitHub**
 
----
-
 ## Fonctionnalités principales
 - Stockage des données dans HDFS
 - Traitement distribué avec MapReduce
 - Traitement équivalent avec Spark
 - Analyse comparative des performances
-
----
 
 ## Exécution du projet
 ### Hadoop MapReduce
